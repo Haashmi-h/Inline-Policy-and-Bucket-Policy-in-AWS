@@ -1,4 +1,4 @@
-# AWS inline Policy vs Bucket Policy
+# AWS inline Policy and Bucket Policy
 ***
 <br />
 
